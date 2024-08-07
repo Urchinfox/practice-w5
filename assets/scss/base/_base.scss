@@ -1,0 +1,54 @@
+body{
+    font-family: "Lato", sans-serif;
+    line-height: 1.5;
+}
+
+a{
+    text-decoration: none;
+    color:inherit;
+    display: inline-block;
+}
+
+h1,h2,h3,h4,p{
+    margin-bottom: 0;
+}
+
+
+code{
+    font-family: "Roboto Mono", monospace;
+    color:$success;
+}
+
+.gray-1{
+    color:$gray-1;
+}
+
+.gray-4{
+    color: $gray-4;
+}
+
+.gray-6{
+    color: $gray-6;
+}
+
+.gray-9{
+    color: $gray-9;
+}
+.bg-gray-1{
+    background-color: $gray-1;
+}
+
+.bg-gray-6{
+    background-color: $gray-6;
+}
+.bg-gray-9{
+    background-color: $gray-9;
+}
+
+.bg-gray-4{
+    background-color: $gray-4;
+}
+
+.border-gray-4{
+    border-color:$gray-4
+}
